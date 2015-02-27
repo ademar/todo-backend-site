@@ -212,3 +212,14 @@
   tags:
    - csharp
    - dotnet
+
+"F# with Suave.IO":
+description:
+An implementation using the <a href="http://suave.io">Suave.IO</a> framework by <a href="https://github.com/JonCanning/TodoBackendSuave">Jon Canning</a>
+sourcecode_url: https://github.com/panesofglass/TodoBackendFSharp
+live_url: http://todobackend.joncanning.com:8080/
+tags:
+- fsharp
+- dotnet
+- suaveio
+- async
